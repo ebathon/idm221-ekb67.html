@@ -252,7 +252,7 @@ footer{
    text-decoration: none;
  }
 
- .yikes{
+ .paragraphcontent{
     margin-top: 1.5rem;
     text-align: left;
     margin-left: 1.75rem;
@@ -280,7 +280,7 @@ footer{
     margin-top: 0.5rem;
     font-size: 16px;
 }
-.imgshit{
+.img{
     width: 300px;
     margin-top: 1rem;
     margin-left: -9rem;
@@ -291,7 +291,7 @@ footer{
     font-size: 16px;
     line-height: 30px;
 }
-.imgshit2{
+.img2{
     width: 300px;
     margin-left: -9rem;
 }

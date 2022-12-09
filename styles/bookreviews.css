@@ -3,9 +3,6 @@
     margin: 0;
 }
 
-.br_content{
-    display: ;
-  }
 
 .container{
     width: 50%;
@@ -17,29 +14,29 @@ h1{
    padding: 1rem;
    margin:1rem;
 }
-.urmom{
+.title{
     text-align: center;
  }
 
- .urdad{
+ .author{
     font-size: 18px;
     text-align: center;
     line-height: 4rem;
 
  }
- .urdaughter{
+ .date{
     font-size: 16px;
     text-align: center;
     line-height: 0.1rem;
  }
- .death{
+ .analogcontainer{
     width: 50%;
     float: left;
     margin-top: 2rem;
     margin-bottom: 15rem;
  }
 
- .urass{
+ .analog{
     width: 160px;
     margin-top: 2rem;
  }
