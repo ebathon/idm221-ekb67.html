@@ -116,6 +116,7 @@ h6{
     color:#2e2e2e; 
 }
 
+
 .headshot {
     display:flex;
     height:auto;
@@ -150,7 +151,7 @@ h6{
 .nova_square{
     display:block;
     text-align: center;
-    text: black;
+    color: black;
     margin-top:1rem;
     margin-bottom:1rem;
     padding: 2.5rem 1rem;
@@ -251,3 +252,50 @@ footer{
    text-decoration: none;
  }
 
+ .yikes{
+    margin-top: 1.5rem;
+    text-align: left;
+    margin-left: 1.75rem;
+ }
+.bloop{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.amtraktext{
+    text-align:left;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    font-size: 22px;
+}
+.amtraktext2{
+    text-align:left;
+    margin-left: 1rem;
+    font-size: 16px;
+}
+.amtraktext3{
+    text-align:left;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    font-size: 16px;
+}
+.imgshit{
+    width: 300px;
+    margin-top: 1rem;
+    margin-left: -9rem;
+}
+.amtraktext4{
+    text-align:left;
+    margin-left: 1.5rem;
+    font-size: 16px;
+    line-height: 30px;
+}
+.imgshit2{
+    width: 300px;
+    margin-left: -9rem;
+}
+
+.contact h3{
+    margin-bottom: 3rem;
+}
